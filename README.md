@@ -1,3 +1,6 @@
+## 🌐 Live Demo  
+https://stock-direction-prediction-mlgit-dpyjpkrxkzguji7dkmdtnu.streamlit.app/
+
 # stock-direction-prediction-ml
 📈 A Machine Learning based Stock Direction Prediction Web App built using Streamlit. This project compares Naive Bayes, Logistic Regression, and Random Forest models to predict stock market movement (UP/DOWN) and automatically selects the best-performing algorithm
 # 📈 Stock Direction Prediction using Machine Learning
@@ -32,3 +35,5 @@ Logistic Regression,
 Random Forest, 
 Linear classification, 
 Non-linear ensemble model
+
+
