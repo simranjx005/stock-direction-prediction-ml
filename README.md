@@ -16,7 +16,7 @@ This project predicts whether a stock will move **UP 📈 or DOWN 📉** using M
 - 💻 Interactive Streamlit Dashboard
 
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
 - Python
 - Streamlit
@@ -27,8 +27,8 @@ This project predicts whether a stock will move **UP 📈 or DOWN 📉** using M
 - yFinance API
 
 ## 📊 Algorithms Used
-Naive Bayes
-Logistic Regression
-Random Forest
-Linear classification
+Naive Bayes, 
+Logistic Regression, 
+Random Forest, 
+Linear classification, 
 Non-linear ensemble model
